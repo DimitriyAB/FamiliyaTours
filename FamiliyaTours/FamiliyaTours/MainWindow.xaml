@@ -14,7 +14,7 @@
         </Grid.RowDefinitions>
 
         <Grid Background="#bae3e8"></Grid>
-        <Image Source="D:\Черновик C++\FamiliyaTours\FamiliyaTours\FamiliyaTours\resources\logo.png" HorizontalAlignment="Left"></Image>
+        <Image Source="image/Logo.png" HorizontalAlignment="Left"></Image>
         
         <TextBlock Text="Header" FontSize="30" HorizontalAlignment="Center"
                    VerticalAlignment="Center"></TextBlock>

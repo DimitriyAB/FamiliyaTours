@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FamiliyaTours",
+    "\\FamiliyaTours\\FamiliyaTours"
   ],
-  "SelectedNode": "\\D:\\Черновик C++\\FamiliyaTours",
+  "SelectedNode": "\\FamiliyaTours\\FamiliyaTours\\HotelsPage.xaml",
   "PreviewInSolutionExplorer": false
 }
